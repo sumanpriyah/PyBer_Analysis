@@ -27,12 +27,17 @@ As per data there are 0.67 rides per driver for Urban, 1.27 rides per driver for
 
 ![](https://github.com/sumanpriyah/PyBer_Analysis/blob/main/analysis/Pyber%20summary%20DataFrame.png)
 
-From below plot its concluded that the total fares by city type is way higher in the Rural than in Suburban or Urban.
-In the end of feb week of 2/24 the total fares went high for all city types. In March the fares went high and low. 
+From below plot (total fares by city type) its concluded that the fares are way higher in the Rural cities than in Suburban or Urban cities.
+In the other dataFrame (shown below) during end of feb week of 2/24 the total fares went high for all city types. In March the fares went high and low. 
 The total fares are high in rural cities during Feb, march and April, it means there are more rides during that time frame and less drivers. 
 For Urban and Suburban the the total fares are less in march as compare to Rural. 
 
-![](https://github.com/sumanpriyah/PyBer_Analysis/blob/main/analysis/Weekly_fare_dataframe_per_city_type.png))
+
+
+![](https://github.com/sumanpriyah/PyBer_Analysis/blob/main/analysis/Weekly_fare_dataframe_per_city_type.png)
+
+
+
 
 ![](https://github.com/sumanpriyah/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
